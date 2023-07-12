@@ -1,3 +1,8 @@
+# Repro_and_Novelty_code
+
+- `pytorch/run_wt103_base.sh` - This would run the RMT (reproduced)
+- `pytorch/run_wt103_base_TARM.sh` - This would run the TARM (Novelty)
+---
 # Recurrent Memory Transformer
 >https://arxiv.org/abs/2207.06881
 
