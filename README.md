@@ -12,3 +12,12 @@ Contains everything that I did as part of my course work at IIT Hyderabad as a C
   - [Assignment 2](https://github.com/rahulvigneswaran/CourseWork-IITH-2023-2025/tree/main/Semester%201/Fraud%20Analytics%20Using%20Predictive%20and%20Social%20Network%20Techniques%20(CS6890)/Assignment%202) (Includes Report & Code)
   - [Assignment 3](https://github.com/rahulvigneswaran/CourseWork-IITH-2023-2025/tree/main/Semester%201/Fraud%20Analytics%20Using%20Predictive%20and%20Social%20Network%20Techniques%20(CS6890)/Assigment%203) (Includes Report & Code)
   - [Assignment 4](https://github.com/rahulvigneswaran/CourseWork-IITH-2023-2025/tree/main/Semester%201/Fraud%20Analytics%20Using%20Predictive%20and%20Social%20Network%20Techniques%20(CS6890)/Assignment%204) (Includes Report & Code)
+
+## Semester-2
+- Linear Optimization (CS5040) - A
+  - [Assignment 1](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%202/Linear%20Optimization%20(CS5040)/Assignment%201)
+  - [Assignment 2](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%202/Linear%20Optimization%20(CS5040)/Assignment%202)
+  - [Assignment 3](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%202/Linear%20Optimization%20(CS5040)/Assignment%203)
+  - [Assignment 4](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%202/Linear%20Optimization%20(CS5040)/Assignment%204)
+- Advanced Data Structures and Algorithms (CS6013) - C
+  - [OneNotes link for Notes and Exam/Test Preparations](https://1drv.ms/u/s!AoLSntMXZD8PmykeRMnyAiBahoPU)
