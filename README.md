@@ -21,3 +21,14 @@ Contains everything that I did as part of my course work at IIT Hyderabad as a C
   - [Assignment 4](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%202/Linear%20Optimization%20(CS5040)/Assignment%204)
 - Advanced Data Structures and Algorithms (CS6013) - C
   - [OneNotes link for Notes and Exam/Test Preparations](https://1drv.ms/u/s!AoLSntMXZD8PmykeRMnyAiBahoPU)
+
+## Semester-3
+- Communication Skills: Advanced (LA5180) - A
+- Hardware Architecture for Deep Learning (CS6490) - A
+  - [Assignments](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%203/Hardware%20Architecture%20for%20Deep%20Learning%20(CS6490)/Assignments)
+  - [Class Quizzes](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%203/Hardware%20Architecture%20for%20Deep%20Learning%20(CS6490)/Class%20Quizzes)
+  - [Presentations](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%203/Hardware%20Architecture%20for%20Deep%20Learning%20(CS6490)/Presentations)
+  - [Term Paper](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%203/Hardware%20Architecture%20for%20Deep%20Learning%20(CS6490)/HADL_Term_paper.pdf)
+- Advanced Topics in Machine Learning (CS6360) - A
+  - [Assignments](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%203/Advanced%20Topics%20in%20Machine%20Learning%20(CS6360)/Assigments)
+  - KKT Blog : [pdf](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%203/Advanced%20Topics%20in%20Machine%20Learning%20(CS6360)/Constrained%20optimization%20and%20KKT%20Conditions_Blog.pdf), [site](https://rahulvigneswaran.github.io/blog/2024/kkt/)
