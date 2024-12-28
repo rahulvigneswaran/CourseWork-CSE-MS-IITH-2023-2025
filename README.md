@@ -32,3 +32,10 @@ Contains everything that I did as part of my course work at IIT Hyderabad as a C
 - Advanced Topics in Machine Learning (CS6360) - A
   - [Assignments](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%203/Advanced%20Topics%20in%20Machine%20Learning%20(CS6360)/Assigments)
   - KKT Blog : [pdf](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%203/Advanced%20Topics%20in%20Machine%20Learning%20(CS6360)/Constrained%20optimization%20and%20KKT%20Conditions_Blog.pdf), [site](https://rahulvigneswaran.github.io/blog/2024/kkt/)
+
+## Semester-4
+- Topics in Deep Learning (CS6420) - A	
+- Advanced Computer Architecture (CS5363) - A
+  - [Assignments](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Assignment)
+  - [Class Quizzes / Exam Papers](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Question%20Papers)
+  - [Notes](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Notes)
