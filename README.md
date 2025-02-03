@@ -40,3 +40,4 @@ Contains everything that I did as part of my course work at IIT Hyderabad as a C
   - [Assignments](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Assignment)
   - [Class Quizzes / Exam Papers](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Question%20Papers)
   - [Notes](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Notes)
+  - [Term Paper](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/ACA_Term_Paper.pdf)
