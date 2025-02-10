@@ -35,9 +35,10 @@ Contains everything that I did as part of my course work at IIT Hyderabad as a C
 
 ## Semester-4
 - Topics in Deep Learning (CS6420) - A
-  - [Hackathon](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%204/Topics%20in%20Deep%20Learning%20(CS6420)/TiDeL%20CS6420%20Hackathon.pdf) - First Prize 🥇
+  - [Hackathon](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%204/Topics%20in%20Deep%20Learning%20(CS6420)/TiDeL%20CS6420%20Hackathon.pdf) - First Place 🥇
 - Advanced Computer Architecture (CS5363) - A
   - [Assignments](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Assignment)
   - [Class Quizzes / Exam Papers](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Question%20Papers)
   - [Notes](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Notes)
   - [Term Paper](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/ACA_Term_Paper.pdf)
+  - [Presentation](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/ACA_Term_Paper.pdf)
