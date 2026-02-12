@@ -1,5 +1,6 @@
 # CourseWork-IITH
 Contains everything that I did as part of my course work at IIT Hyderabad as a CSE Masters student
+> 🎉 **CGPA - 9.76**
 
 ## Semester-1
 - Visual Computing (CS6450) - A
@@ -42,3 +43,8 @@ Contains everything that I did as part of my course work at IIT Hyderabad as a C
   - [Notes](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/tree/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/Notes)
   - [Term Paper](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/ACA_Term_Paper.pdf)
   - [Presentation](https://github.com/rahulvigneswaran/CourseWork-CSE-MS-IITH-2023-2025/blob/main/Semester%204/Advanced%20Computer%20Architecture%20(CS5363)/ACA_Final_Presentation.pdf)
+- M.Tech Thesis (Stage-1) (CS6035) - A
+## Semester-5
+  - M.Tech Thesis (Stage-2) (CS6045) - A
+## Semester-6
+  - M.Tech Thesis (Stage-3) (CS6055) - A
