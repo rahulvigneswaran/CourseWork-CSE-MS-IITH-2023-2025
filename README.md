@@ -1,6 +1,10 @@
 # CourseWork-IITH
 Contains everything that I did as part of my course work at IIT Hyderabad as a CSE Masters student
+> 🎖️ **Rank 1: Silver Medalist**
+> 
 > 🎉 **CGPA - 9.76**
+
+<img width="400" height="711" alt="image" src="https://github.com/user-attachments/assets/01b25d49-3ec6-4015-85da-31658ecca7f6" />
 
 ## Semester-1
 - Visual Computing (CS6450) - A
